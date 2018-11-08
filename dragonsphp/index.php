@@ -5,11 +5,11 @@
 <title>PHP Gallery</title>
   <style type="text/css">
     body {
-      background:#fff;
+      background:#e5e5e5;
     }
     img {
       width:auto;
-      box-shadow:0px 0px 20px #cecece;
+      box-shadow:0px 0px 20px #8e8e8e;
       -moz-transform: scale(0.7);
       -moz-transition-duration: 0.6s; 
       -webkit-transition-duration: 0.6s;
@@ -19,7 +19,7 @@
       -ms-transition-duration: 0.6s; 
     }
     img:hover {
-      box-shadow: 20px 20px 20px #dcdcdc;
+      box-shadow: 10px 10px 10px #636363;
       -moz-transform: scale(0.8);
       -moz-transition-duration: 0.6s;
       -webkit-transition-duration: 0.6s;
